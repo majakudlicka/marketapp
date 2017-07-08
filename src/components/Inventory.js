@@ -1,9 +1,10 @@
 import React from 'react';
 
 class Inventory extends React.Component {
-  redner(){
+  render() {
     return (
       <p>Inventory</p>
+      
     )
   }
 }
